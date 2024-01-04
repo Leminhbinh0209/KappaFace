@@ -81,3 +81,5 @@ $ CUDA_VISIBLE_DEVICES="0,1,2,3" python -m torch.distributed.launch --nproc_per_
 | KappaFace-MS1MV2-R100 (_momentum encoder_) | **98.78** | **98.83** |
         
 
+#
+*Star if you find it useful.* ⭐
