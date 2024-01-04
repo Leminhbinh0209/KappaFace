@@ -1,0 +1,4 @@
+TPR@FPR=1e-06 at different #distractors
+
+method                          	10     	100    	1000   	10000  	100000 	1000000
+kappaface-r100                  	0.997449 	0.994129 	0.993621 	0.991382 	0.990341 	0.989132 

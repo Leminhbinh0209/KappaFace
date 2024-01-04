@@ -1,0 +1,17 @@
+Rank_1 recall at different #distractors
+#distractors  recall
+     10  0.998171
+    100  0.997195
+   1000  0.996824
+  10000  0.995307
+ 100000  0.992404
+1000000  0.987731
+
+Rank_10 recall at different #distractors
+#distractors  recall
+     10  0.999817
+    100  0.997447
+   1000  0.996852
+  10000  0.995311
+ 100000  0.992405
+1000000  0.987739

@@ -1,0 +1,4 @@
+Rank-1 and Rank-10 at different #distractors
+
+method                          	rank1@10      	rank1@100     	rank1@1000    	rank1@10000   	rank1@100000  	rank1@1000000 	rank10@10     	rank10@100    	rank10@1000   	rank10@10000  	rank10@100000 	rank10@1000000
+kappaface-r100                  	0.998171        	0.997195        	0.996824        	0.995307        	0.992404        	0.987731        	0.999817        	0.997447        	0.996852        	0.995311        	0.992405        	0.987739        
